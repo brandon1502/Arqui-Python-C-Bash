@@ -2,4 +2,15 @@
 Programacion para arqui
 
 --------------------------------------------------------------------------------------------
-# **Este texto está sombreado y más grande**
+## **Este texto está sombreado y más grande**
+
+
+
+
+
+
+
+
+
+
+
