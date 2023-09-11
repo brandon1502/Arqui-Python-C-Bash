@@ -2,4 +2,4 @@
 Programacion para arqui
 
 --------------------------------------------------------------------------------------------
-**Este texto está sombreado**
+#**Este texto está sombreado**
